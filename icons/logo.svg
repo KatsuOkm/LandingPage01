@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<g id="BACKGROUND">
+	<rect x="0" style="fill:#FFFFFF;" width="499.999" height="500"/>
+</g>
+<g id="OBJECTS">
+	<g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 109.0403 393.5851)"><tspan x="0" y="0" style="fill:#383344; font-family:'Teko-Light'; font-size:75px; letter-spacing:7;">glass</tspan><tspan x="158.847" y="0" style="fill:#6EA9FF; font-family:'Teko-Light'; font-size:75px; letter-spacing:7;">logo</tspan></text>
+				
+					<text transform="matrix(1 0 0 1 172.0461 414.4932)" style="fill:#383344; font-family:'Lato-Medium'; font-size:13.9074px; letter-spacing:2;">tagline goes here</text>
+			</g>
+		</g>
+		<g>
+			<polygon style="fill:#71F5FF;" points="228.37,78.44 228.37,97.614 342.852,153.294 342.852,265.676 359.925,273.98 
+				359.925,142.425 			"/>
+			<polygon style="fill:#70E2FF;" points="206.296,92.438 206.296,111.612 320.777,167.293 320.777,279.674 337.852,287.978 
+				337.852,156.423 			"/>
+			<polygon style="fill:#70CFFF;" points="184.222,106.437 184.222,125.611 298.704,181.291 298.704,293.672 315.778,301.977 
+				315.778,170.421 			"/>
+			<polygon style="fill:#6FBCFF;" points="162.148,120.435 162.148,139.609 276.63,195.289 276.63,307.671 293.704,315.975 
+				293.704,184.419 			"/>
+			<polygon style="fill:#6EA9FF;" points="271.63,329.973 140.075,265.988 140.075,134.433 271.63,198.417 			"/>
+			<g style="opacity:0.5;">
+				<polygon style="fill:#C0F3FF;" points="269.228,197.249 214.678,170.718 140.075,245.321 140.075,265.988 180.72,285.757 				
+					"/>
+				<polygon style="fill:#EBFCFF;" points="271.63,205.481 187.874,289.237 197.16,293.753 271.63,219.283 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

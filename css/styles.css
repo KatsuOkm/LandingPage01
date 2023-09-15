@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+
+
+
+*{
+    color: aliceblue;
+    text-decoration: none;
+    box-sizing: border-box;
+
+    margin: 0;
+    padding: 0;
+}
+
+.nav_bar{
+    height: 55px;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.nav_bar img{
+    display: flex;
+    width: 4%;
+
+}
+
+ul.nav{
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
+
+.nav li{
+    list-style: none;
+}
+
+.nav a{
+    font-family: 'Sarala', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.nav a:hover{
+    color: rgb(61, 248, 186);
+}
+
+.principal{
+    border-top: 0.4px solid rgb(102, 214, 241);
+    margin-bottom: 40px;
+    display: flex;
+    flex-flow: column wrap;
+
+}
+
+.section1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    
+
+}
+.section1 h1{
+    font-size: 60px;
+}
+
+.section1 p{
+    font-family: 'Sarala', sans-serif;
+    text-align: left;
+    font-weight: bold;
+}
+
+.conteudo1{
+    display: flex;
+    flex-flow: column;
+    gap: 10px;
+}
+
+button{
+    display: block;
+    border-radius: 7px;
+    background: rgb(61, 248, 186);
+    color:aliceblue;
+    width: 100px;
+    height: 40px;
+    border: 0;
+    box-shadow: 2px 5px 5px 2px rgba(19, 155, 110, 0.4) ;
+}
+
+button:hover{
+    background: rgb(169, 247, 221);
+    transition-duration: 0.4s;
+}
+
+button:active{
+    background: rgb(111, 190, 164);
+    transition-duration: 0.3s;
+
+}
+
+.section2{
+    margin-top: 48px;
+    display: flex;
+    flex-flow: column wrap;
+    text-align: left;
+    gap: 10px;
+    align-items: center;
+
+}
+
+.section2 h3{
+    border-top: 0.4px solid rgb(102, 214, 241);
+    padding-top: 40px;
+    margin-bottom: 23px;
+}
+
+body{
+    font-size: 100%;
+
+    background: rgb(113,117,250);
+    background: linear-gradient(45deg, rgba(113,117,250,1) 0%, rgb(48, 204, 196) 60%, rgba(0,212,255,1) 100%);
+    
+}
+
+
+h1, h3{
+    font-family: 'Righteous', cursive;
+}
+
+p{
+    font-family: 'Sarala', sans-serif;
+    text-align: left;
+    
+}
+
+footer{
+    border-top: 0.4px solid rgb(102, 214, 241); 
+    display: flex;
+    justify-content: center;
+}
+
+footer img{
+    height: 75px;
+}
